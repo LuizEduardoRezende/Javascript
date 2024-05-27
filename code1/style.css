@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100vh;
+}
+
+body {
+    background: lightblue;
+}
+
+.box {
+    height: 300px;
+    width: 300px;
+    margin: auto;
+
+    background: orange;
+}
